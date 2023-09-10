@@ -9,3 +9,5 @@ def is_digit(str):
         return False
 
 print(is_digit("125"))
+
+print("mahmood")
